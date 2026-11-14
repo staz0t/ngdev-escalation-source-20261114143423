@@ -1,0 +1,9 @@
+{
+  "name": "controlled-ngdev-config-source",
+  "private": true,
+  "packageManager": "pnpm@12.18.0",
+  "scripts": {"ng-dev": "ng-dev"},
+  "dependencies": {
+    "@angular/ng-dev": "https://codeload.github.com/angular/dev-infra-private-ng-dev-builds/tar.gz/2e989b1cfb3a6fd8dc8d14c513f10f3084e6b970"
+  }
+}
